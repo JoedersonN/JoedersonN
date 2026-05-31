@@ -31,11 +31,10 @@ Estudante de Segurança da Informação focado em defesa cibernética, monitoram
 
 | Repositório | Descrição |
 |---|---|
-| [network-traffic-analyzer](https://github.com/[SEU_USUARIO]/network-traffic-analyzer) | Script Python para análise de arquivos .pcap e detecção de padrões suspeitos |
-| [log-analyzer-soc](https://github.com/[SEU_USUARIO]/log-analyzer-soc) | Ferramenta de triagem de logs para operações SOC |
-| [thm-writeups](https://github.com/[SEU_USUARIO]/thm-writeups) | Writeups técnicos dos labs realizados no TryHackMe |
-| [home-lab](https://github.com/[SEU_USUARIO]/home-lab) | Documentação do laboratório pessoal de segurança |
-
+https://github.com/JoedersonN/network-traffic-analyzer
+https://github.com/JoedersonN/log-analyzer-soc
+https://github.com/JoedersonN/thm-writeups
+https://github.com/JoedersonN/home-lab
 ---
 
 ## 📊 TryHackMe
